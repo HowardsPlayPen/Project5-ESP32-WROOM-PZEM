@@ -1,0 +1,11 @@
+{
+    "ssid": "**",
+    "password": "**",
+    "ota_user": "**",
+    "ota_password": "**",
+    "ssdp_name": "ESP32-PZEM-Stable",
+    "ssdp_modelname": "Mains 240V monitoring",
+    "mqtt_server": "**",
+    "mqtt_user": "**",
+    "mqtt_password": "**"
+}
