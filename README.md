@@ -1,4 +1,4 @@
-# Project 5: A dive into the deep end + some SMD soldering
+# Project 5: ESP32WROOM + some SMD soldering
 
 So far, all my projects had involved modules for each component, such as using an ESP32-CAM, but I wanted to move to use more compact components - such as the ESP32-S2. The camera on the ESP32-CAM is amazing and simple to use - but for most of the projects I wanted to build having more GPIO pins available seemed like a better option.
 
