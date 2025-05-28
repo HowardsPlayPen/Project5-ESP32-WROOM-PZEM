@@ -4,11 +4,12 @@ So far, all my projects had involved modules for each component, such as using a
 
 At this point a friend sent me the following [link](https://twitter.com/i/status/1598419769077952512) showing an amazing PCB that was not much thicker than the PCB board but with a wonderul TFT screen built in
 
-![Bobricus board](./Hardware/imgs/bobricius-board.png)
+<img src="./Hardware/imgs/bobricius-board.png" alt="Bobricus board" width="300" />
 
 The twitter feed included a link to where you can buy the TFT on [AliExpress](https://www.aliexpress.com/item/1005003768946439.html)
 
-![TFT screen](./Hardware/imgs/tft.png)
+<img src="./Hardware/imgs/tft.png" alt="TFT screen" width="300" />
+
 
 Specs: 240*280 RGB Build-in ST7789 Driver Serial IPS Display
 
